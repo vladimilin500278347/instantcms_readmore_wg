@@ -1,6 +1,9 @@
 # instantcms_readmore_wg
-Виджет ReadMore для InstantCMS  
 
+ReadMore Widget for InstantCMS
+**_The widget adds Collapse/Expand functionality to blocks it applies to._**
+
+Виджет ReadMore для InstantCMS  
 **_Виджет добавляет функциональность Свернуть/Развернуть к блокам, к которым применяется._** 
 
 ![Пример...](readmorejs.gif "Пример...")
@@ -10,7 +13,7 @@
 ![Пример...](readmorejs4.png "Пример...")  
 ![Пример...](readmorejs5.png "Пример...")  
 
-Тест на InstantCMS \*v2.10.0\*  
+Тест на InstantCMS \*v2.15.0\*  
 
 Сделано пользоватем https://instantcms.ru/users/12494
 vladimilin500278347@gmail.com
