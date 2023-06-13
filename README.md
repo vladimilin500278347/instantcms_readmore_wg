@@ -21,4 +21,4 @@ js от georapbox
 ------
 как определить селектор? (подсказки) - https://www.w3schools.com/cssref/trysel.asp?selector=pluss  
 
-Донат автору - PrivatBank EUR - 4149 4993 7413 7113 MonoBank EUR - 5375 4199 1067 8257
+Донат автору - PrivatBank EUR - 4149 4993 7413 7113
